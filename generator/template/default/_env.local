@@ -1,0 +1,6 @@
+# allow route
+# VUE_APP_ALLOW_ROUTES=home
+# allow entry
+# VUE_APP_ALLOW_ENTRY=main
+# dev server port
+PORT=5000
