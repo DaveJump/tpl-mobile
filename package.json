@@ -1,6 +1,6 @@
 {
   "name": "@djp6/tpl-mobile",
-  "version": "1.0.1",
+  "version": "1.2.1",
   "description": "A template of mobile application for tpl-cli-vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
