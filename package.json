@@ -1,13 +1,11 @@
 {
   "name": "@djp6/tpl-mobile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A template of mobile application for tpl-cli-vue",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "bash release.sh"
   },
-  "files": [
-    "index.js"
-  ],
   "author": "DaveJump",
   "license": "MIT"
 }
